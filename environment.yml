@@ -1,0 +1,15 @@
+name: healthconnect
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.13
+  - django
+  - psycopg
+  - djangorestframework
+  - django-cors-headers
+  - web3
+  - conda-forge::python-dotenv
+  - py-solc-x
+  - numpy
+prefix: /Users/ZMCodi/miniforge3/envs/healthconnect
