@@ -1,12 +1,14 @@
 require("@nomicfoundation/hardhat-toolbox");
+require("dotenv").config();
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-  solidity: {
-    version: "0.8.28",  // or whatever version you're using
-    settings: {
-      evmVersion: "london"
+  solidity: "0.8.20",
+  networks: {
+    coston2: {
+      url: "https://coston2-api.flare.network/ext/C/rpc",
+      chainId: 114,
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
     }
-  },
-  // ... rest of your config
+  }
 };
