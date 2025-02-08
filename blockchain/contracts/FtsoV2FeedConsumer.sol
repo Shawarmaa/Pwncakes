@@ -74,12 +74,12 @@ contract FtsoV2FeedConsumer {
     returns (
         uint256[] memory _feedValues,
         int8[] memory _decimals,
-        uint64 _timestamp
+        uint64 _timestamp,
+        bytes21[] memory _feedIds  // Added this return value
     )
     {
-        /* THIS IS A TEST METHOD, in production use: ftsoV2 = ContractRegistry.getFtsoV2(); */
         ftsoV2 = ContractRegistry.getTestFtsoV2();
-        /* Your custom feed consumption logic. In this example the values are just returned. */
-        return ftsoV2.getFeedsById(feedIds);
+        (_feedValues, _decimals, _timestamp) = ftsoV2.getFeedsById(feedIds);
+        return (_feedValues, _decimals, _timestamp, feedIds);  // Return feedIds as well
     }
 }
