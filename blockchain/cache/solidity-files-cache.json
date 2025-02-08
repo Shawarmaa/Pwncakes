@@ -2,15 +2,15 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/ZMCodi/hackathon/ethoxford/Pwncakes/blockchain/contracts/FtsoV2FeedConsumer.sol": {
-      "lastModificationDate": 1739003617428,
-      "contentHash": "6bf5caf16f34071c1df7ccbae61abdf0",
+      "lastModificationDate": 1739004327141,
+      "contentHash": "25f5b99c0cfd1d802fae6a1b3f26de73",
       "sourceName": "contracts/FtsoV2FeedConsumer.sol",
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -47,9 +47,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -130,9 +130,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -166,9 +166,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -206,9 +206,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -242,9 +242,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -278,9 +278,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -317,9 +317,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -353,9 +353,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -389,9 +389,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -425,9 +425,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -464,9 +464,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -500,9 +500,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -539,9 +539,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -575,9 +575,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -611,9 +611,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -650,9 +650,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -686,9 +686,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -722,9 +722,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -761,9 +761,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -797,9 +797,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -833,9 +833,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -869,9 +869,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -905,9 +905,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -943,9 +943,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -981,9 +981,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1017,9 +1017,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1053,9 +1053,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1091,9 +1091,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1127,9 +1127,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1165,9 +1165,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1201,9 +1201,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1241,9 +1241,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1277,9 +1277,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1313,9 +1313,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1349,9 +1349,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1385,9 +1385,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1423,9 +1423,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1463,9 +1463,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1499,9 +1499,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1535,9 +1535,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1571,9 +1571,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1614,9 +1614,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1650,9 +1650,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1686,9 +1686,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1725,9 +1725,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1761,9 +1761,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1799,9 +1799,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1835,9 +1835,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1871,9 +1871,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1909,9 +1909,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1949,9 +1949,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -1985,9 +1985,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2027,9 +2027,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2067,9 +2067,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2103,9 +2103,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2143,9 +2143,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2183,9 +2183,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2219,9 +2219,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2255,9 +2255,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2291,9 +2291,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2330,9 +2330,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2366,9 +2366,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2400,9 +2400,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2436,9 +2436,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2472,9 +2472,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2506,9 +2506,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2545,9 +2545,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2583,9 +2583,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2621,9 +2621,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2659,9 +2659,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2697,9 +2697,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2735,9 +2735,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2773,9 +2773,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2811,9 +2811,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2847,9 +2847,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2883,9 +2883,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2919,9 +2919,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2955,9 +2955,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -2991,9 +2991,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -3027,9 +3027,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -3063,9 +3063,9 @@
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
-          "evmVersion": "paris",
+          "evmVersion": "london",
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
